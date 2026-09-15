@@ -1,5 +1,5 @@
 package TwoPointersSlidingWindow.MaxPointsNcards;
 
-public class bruteApproach {
-
-}
+//public class bruteApproach {
+//
+//}
