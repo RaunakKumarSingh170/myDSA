@@ -19,7 +19,7 @@ class Solution {
             curr.next = prev;
             prev = curr;
             curr = forward;
-        } //updated head prev return prev;
+        } // prev is now the new head
         return prev;
     }
 }
